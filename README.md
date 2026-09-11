@@ -1,6 +1,7 @@
 # ATM Management System
 
 My first C++ project that simulates basic ATM operations.
+This is one of my first C++ projects, created while learning fundamentals of C++.
 
 ## Features
 
